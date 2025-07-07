@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Lovish
 
-<!--
-**Lovish29-2003/Lovish29-2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student | Java & Spring Boot Developer  
+📱 React Native Intern | Android & Web Developer  
+🚀 Building real-world software solutions using Java, REST APIs, and cross-platform tools
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Java, Spring Boot, MySQL, REST APIs
+- React Native, Android, Flutter
+- GitHub, Postman, HTML/CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/lovish-a7a0942b7/)
+- [GitHub](https://github.com/Lovish29-2003)
+- 📧 lovishgheek29@gmail.com
+
+Thanks for stopping by! 🌟

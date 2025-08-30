@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Lovish
 
-🎓 Final Year Computer Science Student | Java & Spring Boot Developer  
+🎓 Final Year Computer Science Student | Java & React-Native Developer  
 📱 React Native Intern | Android & Web Developer  
 🚀 Building real-world software solutions using Java, REST APIs, and cross-platform tools
 
 ## 🛠 Skills
-- Java, Spring Boot, MySQL, REST APIs
-- React Native, Android, Flutter
+- Java, React-Native, MySQL, REST APIs
+- React Native, Android, MERN
 - GitHub, Postman, HTML/CSS
 
 ## 🔗 Let's Connect!
